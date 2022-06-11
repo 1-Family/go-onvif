@@ -1,6 +1,8 @@
 # Description
 This repo is forked from https://github.com/quocson95/go-onvif, with the aim to fix & generalize a few issues.
 Currently SetVideoEncoderConfiguration had been generalized to allow supporting non-default network configurations, for instance when modifying camera resolition.
+- The fix has now been merged into fork source.
+- This repo is kept for planned future ammendments
 
 # Go-ONVIF
 
